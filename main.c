@@ -1,5 +1,7 @@
 #include <stdio.h>
+
 int main() {
-pritnf("Hello world\n");
-return 0;
+	pritnf("Hello world\n");
+	
+	return 0;
 }
